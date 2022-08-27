@@ -29,5 +29,4 @@ Our data covers purchases orders for 3898 users over two years from the beginnin
 - sausage	=> whole milk, yogurt
 - specialty chocolate => citrus fruit
 
-# Todos:
-- Deployment
+
